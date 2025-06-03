@@ -10,7 +10,7 @@ soundfile>=0.12
 praat-parselmouth>=0.4.3
 moviepy>=1.0
 opencv-python-headless>=4.9
-mediapipe>=0.10
+mediapipe==0.10.11
 Pillow>=0.10.18
 deepface>=0.0.79
 fer>=23.0
